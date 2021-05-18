@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1620689436 source:e:\my drive\undergraduate\2nd year\4th semester\cng 213\pa2\deliverysimulator\deliverysimulator.c
+	<stdio.h>
+	<stdlib.h>
+	"queue.h"
+	"list.h"
+	<string.h>
+	<time.h>
+
+1620670391 e:\my drive\undergraduate\2nd year\4th semester\cng 213\pa2\deliverysimulator\queue.h
+
+1620670509 e:\my drive\undergraduate\2nd year\4th semester\cng 213\pa2\deliverysimulator\list.h
+	"queue.h"
+
+1620671074 source:e:\my drive\undergraduate\2nd year\4th semester\cng 213\pa2\deliverysimulator\queue.c
+	<stdlib.h>
+	<stdio.h>
+	"queue.h"
+	<string.h>
+
+1620672855 source:e:\my drive\undergraduate\2nd year\4th semester\cng 213\pa2\deliverysimulator\list.c
+	<stdlib.h>
+	<stdio.h>
+	"list.h"
+	<string.h>
+
